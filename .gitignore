@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+### Variáveis de Ambiente ###
+.env
+### IntelliJ Run Configurations ###
+.run/
